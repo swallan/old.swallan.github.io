@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Oct 2020 04:30:34 GMT</lastBuildDate><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Oct 2020 07:22:46 GMT</lastBuildDate><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under various research grants. Under supervision of a professor on campus, I have made enhancements to &lt;code class=&quot;language-text&quot;&gt;scipy.stats&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Most recently, under the grant, “A Solid Foundation for Statistics in Python with SciPy,” we have worked to make enhancements in several areas to SciPy’s statistical functions. See the full grant proposal &lt;a href=&quot;https://warrenweckesser.github.io/czi/scipy-2019-czi-proposal-revised.pdf&quot;&gt;here&lt;/a&gt;. Most notably, I worked to&lt;/p&gt;
 &lt;ul&gt;
@@ -7,7 +7,38 @@
 &lt;/ul&gt;
 &lt;p&gt;Under a NumFOCUS grant, we made enhancements to &lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt; by wrapping 8 new fortran functions. I participated in this project by creating a parametrized unit test suite for each Fortran Linear Algebra Package (LAPACK) prior to the wrapper being written. &lt;/p&gt;
 &lt;h5&gt;&lt;code class=&quot;language-text&quot;&gt;scipy.stats&lt;/code&gt;&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/mqgqXJJ/Screen-Shot-2020-09-30-at-9-26-52-PM.png&quot; alt=&quot;benchmark&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/swallan.github.io/static/26027e33530c8562de79087400df5802/f291a/benchmark.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.88607594936708%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAADQklEQVQ4y31SS28TVxSeBa3EUyQhRskEwYRpSewEIbFE6rKbsgJ1Y7HqggUrUCq1VCUElGz6JyqVSkDzcAkEJY6LhMSCqKrSiodBTlzbchp7PO871/O89/TcIaGVKvVKn75z75w55/vOvdJ55ZMPz5099fmnFz679OuLan690sy/bRr55adr+dz4mfzHI7n8SHY8f2p0LIXYC4g4mzudH8Wc0ez4pdGRsYuDJ4b3Sle+uDy49GiRPXu+BpZNwLEcMBHbbQ2KqyVYXinCSnE15WKxBKt4tlr6Jf22+HAJFucLsFwqwf0HD+h3t6ZPSl9/dU22HI94PmBBL7Eti+mmywzDYJR6rNvtMs/bYUJYFEUMAP4B5zEyREmi/3T3nipN3ZySCSFeEATg+z4Lw5CHYcQbjQbf2NjgtVqNV6vVFPV6nW9ubvJ2u82xAe9Syik2wibgOI7xw507qjQzMyMDY1TvdIB6HhfdMBlQFWBxEMm7vBv/G1EYsiRJAEUZC4WCKk1O3ZJbhklfVzah2vyLO8QDyzLBR8WMMYgxOWEI5DiOkRkwztHpO2DMhHdRsLCwoEpfXv9Grmx36MtaE142trnmEFRKwEeFCSpIfD/l2A8QPrAIY2wWizNEIObs2GCbhvHw8WNV+vbGpOx6Ht3aboGmG1woQhtoG39GNUkskKRqU8Yz3ACPoxTgdxkqAGqZxvyjJVW6fHVCfvLiLV35vQwr6695TTOxYADiknaXsLYTpZZ39zunwjF4lBrzs3OqdH1ySv5zq0V/e1OBJ3+U+Ra+wQiLiVkGUQzdMEKOwEcWcYhnQRjjPJNUMTpgLOHgujjDn3GGt6enZeLYZKNWh+L6q6Rp2kICI/j2xJNIQek7YEyQsRlzXI8RQhHdhNIIKA30ubl7ouDMkG3b0ZbWgbVKHXTxwoUdnBPDW4X3dv9/UWK792cLH0kTExMD5XK5UavXrVYbr8U09Y6mITq61tJ0Hdl1XR2b/gcW5lqW3THbTbtZq1S+/3FWkfbg6u/vP5bLZofPjOWU4RPHlZ7Dh5WMLCtDqqocOXpUyWQyypG+PqW3t1fp6elJuQ/3AwcPKIMH9ikDhw4Ny5nM0L79+z/4G+ROfzdT6CRDAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;benchmark&quot;
+        title=&quot;benchmark&quot;
+        src=&quot;/swallan.github.io/static/26027e33530c8562de79087400df5802/f058b/benchmark.png&quot;
+        srcset=&quot;/swallan.github.io/static/26027e33530c8562de79087400df5802/c26ae/benchmark.png 158w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/6bdcf/benchmark.png 315w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/f058b/benchmark.png 630w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/40601/benchmark.png 945w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/78612/benchmark.png 1260w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/f291a/benchmark.png 2258w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h5&gt;&lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt;&lt;/h5&gt;</content:encoded></item><item><title><![CDATA[Student Web Developer; Technology Specialist: Cal Poly Corporation]]></title><description><![CDATA[Overview Enhanced calpolydining.com and calpolycorporation.org Improved static site speed, implemented ADA compliance, updated content and…]]></description><link>https://swallan.github.io/campus-dining/</link><guid isPermaLink="false">https://swallan.github.io/campus-dining/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Enhanced calpolydining.com and calpolycorporation.org&lt;/p&gt;
 &lt;ul&gt;
