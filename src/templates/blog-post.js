@@ -23,7 +23,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{post.frontmatter.date} - {post.frontmatter.isCurrent === true ? <>Present</> : post.frontmatter.endDate } </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -31,7 +31,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         <hr />
         <footer>
-          <Bio />
+        
         </footer>
       </article>
       <nav className="blog-post-nav">
@@ -45,16 +45,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         >
           <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+            {next && (
+              <Link to={next.fields.slug} rel="next">
+                ← {next.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+            {previous && (
+              <Link to={previous.fields.slug} rel="prev">
+                {previous.frontmatter.title} →
               </Link>
             )}
           </li>
@@ -79,7 +79,9 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM YYYY")
+        isCurrent
+        endDate(formatString: "MMMM YYYY")
         description
       }
     }

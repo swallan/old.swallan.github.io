@@ -1,6 +1,8 @@
 ---
-title: My Work with SciPy
-date: "2020-09-30T22:40:32.169Z"
+title: "Undergraduate Research Assistant: SciPy"
+date: "2019-11-30"
+isCurrent: True
+order: 1
 description: As an undergraduate research assistant, I have been contributing to the Scientific Python ("SciPy") since november of 2019 under various research grants. 
 ---
 
@@ -17,6 +19,6 @@ Under a NumFOCUS grant, we made enhancements to `scipy.linalg` by wrapping 8 new
 
 ##### `scipy.stats`
 
-
+![benchmark](https://i.ibb.co/mqgqXJJ/Screen-Shot-2020-09-30-at-9-26-52-PM.png)
 
 ##### `scipy.linalg`

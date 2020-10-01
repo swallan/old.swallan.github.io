@@ -44,7 +44,7 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>Last Updated: {post.frontmatter.date}</small>
+                  <small>{post.frontmatter.date} - {post.frontmatter.isCurrent === true ? <>Present</> : post.frontmatter.endDate } </small>
                 </header>
                 <section>
                   <p
@@ -72,14 +72,16 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___order], order: ASC }) {
       nodes {
         excerpt
         fields {
           slug
         }
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(formatString: "MMMM YYYY")
+          endDate(formatString: "MMMM YYYY")
+          isCurrent
           title
           description
         }

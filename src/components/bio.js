@@ -54,11 +54,11 @@ const Bio = () => {
       {author?.name && (
         <p>
           <strong>{author.name}</strong> {author?.summary || null}
-          {` `}Check out my 
-          <a href={`https://linkedin.com/in/${social?.linkedin || ``}`}>
+          {` `}Check out my {` `}
+          <a href={`https://nbviewer.jupyter.org/github/swallan/swallan.github.io/blob/master/content/assets/swallan_resume.pdf`}>
            resume
-          </a> 
-          or my
+          </a> {` `}
+          or my {` `}
           <a href={`https://linkedin.com/in/${social?.linkedin || ``}`}>
            LinkedIn.
           </a> 
