@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: "/swallan.github.io",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Samuel Wallan`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `I am`,
+      summary: `a third year Software Engineering major and Cal Poly, San Luis Obispo.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A short portfolio of Sam Wallan's work.`,
+    siteUrl: `https://swallan.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `samuelwallan`,
     },
   },
   plugins: [
