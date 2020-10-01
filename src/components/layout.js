@@ -24,10 +24,9 @@ const Layout = ({ location, title, children }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+      <footer style={{ alignContent: `space-evenly`}}>
+        © {new Date().getFullYear()} Samuel Wallan | {` `}
+        <a href="mailto:swallan@calpoly.edu">email</a> {` me`}
       </footer>
     </div>
   )

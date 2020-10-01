@@ -3,22 +3,55 @@ title: "Undergraduate Research Assistant: SciPy"
 date: "2019-11-30"
 isCurrent: True
 order: 1
-description: As an undergraduate research assistant, I have been contributing to the Scientific Python ("SciPy") since november of 2019 under various research grants. 
+description: As an undergraduate research assistant, I have been contributing to the Scientific Python ("SciPy") since November of 2019 under various research grants. 
 ---
 
-## Overview 
+## Overview ![scipy-logo](/scipy-logo-300.png)
 As an undergraduate research assistant, I have been contributing to the Scientific Python ("SciPy") since November of 2019 under various research grants. Under supervision of a professor on campus, I have made enhancements to `scipy.stats` and `scipy.linalg`.
 
-Most recently, under the grant, "A Solid Foundation for Statistics in Python with SciPy," we have worked to make enhancements in several areas to SciPy's statistical functions. See the full grant proposal [here](https://warrenweckesser.github.io/czi/scipy-2019-czi-proposal-revised.pdf). Most notably, I worked to
-  - increase the speed and accuracy of continuous distributions fit methods
-  - Addition of the Alexander-Govern statistical test
+Most recently, under the grant, "A Solid Foundation for Statistics in Python with SciPy," we have worked to make enhancements in several areas to SciPy's statistical functions. See the full grant proposal [here](https://warrenweckesser.github.io/czi/scipy-2019-czi-proposal-revised.pdf). 
+
+
+
+Most notably, I worked to
+
+  1. increase the speed and accuracy of continuous distributions fit methods
+  2. Add of the Alexander-Govern statistical test
+  3. create the Tukey-Kramer test
+
+
 
 Under a NumFOCUS grant, we made enhancements to `scipy.linalg` by wrapping 8 new fortran functions. I participated in this project by creating a parametrized unit test suite for each Fortran Linear Algebra Package (LAPACK) prior to the wrapper being written. 
 
 
 
-##### `scipy.stats`
+## Statistics 
 
-![benchmark](https://i.ibb.co/mqgqXJJ/Screen-Shot-2020-09-30-at-9-26-52-PM.png)
+##### Fit methods
 
-##### `scipy.linalg`
+
+The fit methods for SciPy's continuous distributions ([`scipy.stats`](https://docs.scipy.org/doc/scipy/reference/stats.html)) by default determine the best fit by optimizing over its associated log-likelihood equation. While this often effective enough to satisfy user needs, as data size increase and the number of shapes and parameter increase, it can begin to take a long time. 
+
+Through the use of maximum likelihood estimation (MLE) formula, we were able to cut down fit times by several factors, from milliseconds to microseconds. For example, if we take a look at the Pareto distribution's (`scipy.stats.pareto`) behavior in the benchmark that I wrote, there is a precipitous drop in fit speeds when the fit method was overridden:
+![benchmark](/benchmark.png)
+
+It is significant to note that MLE formula may not always be appropriate alongside fixed, non-optimal, other parameters. These situations did not experience a speed increase. 
+
+This enhancement was conducted for 8 continuous distributions.
+
+##### Addition of Statistical Tests
+
+After starting with two separate implementations, @DominicChm and I merged together the best parts of each of our implementations after determining the best practices and most efficient method. We checked on this using a benchmark which is viewable in the commit history.
+
+We have used the least possible list comprehensions and tried to utilize numpy array operations whenever possible.
+
+The PR includes:
+
+- alexandergovern function
+- AlexanderGovernResult class
+- test class
+  - comparisons with R computed values
+  - comparisons with values from academic papers
+
+### Linear Algbra ([`scipy.linalg`](https://docs.scipy.org/doc/scipy/reference/linalg.html))
+

@@ -26,7 +26,7 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            linkedin
           }
         }
       }
@@ -53,15 +53,15 @@ const Bio = () => {
       )}
       {author?.name && (
         <p>
-          <strong>{author.name}</strong> {author?.summary || null}
+          {author.name} {author?.summary || null}
           {` `}Check out my {` `}
           <a href={`https://nbviewer.jupyter.org/github/swallan/swallan.github.io/blob/master/content/assets/swallan_resume.pdf`}>
-           resume
-          </a> {` `}
-          or my {` `}
+           resume,
+          </a>
+           {` `}
           <a href={`https://linkedin.com/in/${social?.linkedin || ``}`}>
-           LinkedIn.
-          </a> 
+           LinkedIn
+          </a>, {` `}or browse here to learn more about my work. 
         </p>
       )}
     </div>

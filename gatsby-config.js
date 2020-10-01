@@ -4,7 +4,7 @@ module.exports = {
     title: `Samuel Wallan`,
     author: {
       name: `I am`,
-      summary: `a third year Software Engineering major and Cal Poly, San Luis Obispo.`,
+      summary: `a third year Software Engineering major at Cal Poly, San Luis Obispo.`,
     },
     description: `A short portfolio of Sam Wallan's work.`,
     siteUrl: `https://swallan.github.io/`,
