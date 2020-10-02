@@ -43,15 +43,11 @@ This enhancement was conducted for 8 continuous distributions.
 
 After starting with two separate implementations, @DominicChm and I merged together the best parts of each of our implementations after determining the best practices and most efficient method. We checked on this using a benchmark which is viewable in the commit history.
 
-We have used the least possible list comprehensions and tried to utilize numpy array operations whenever possible.
+We have used the least possible list comprehensions and tried to utilize numpy array operations whenever possible. This experience helped me fine tune my benchmarking and testing skills, as there is limited support for this test across the wider internet, even amongst academic sources. 
 
-The PR includes:
-
-- alexandergovern function
-- AlexanderGovernResult class
-- test class
-  - comparisons with R computed values
-  - comparisons with values from academic papers
 
 ### Linear Algbra ([`scipy.linalg`](https://docs.scipy.org/doc/scipy/reference/linalg.html))
 
+I was able to work under a NumFOCUS grant to add support for several new Linear Algebra Package fortran routines with the use of a fortran to python ("f2py") wrapper. My main responsibility was to create a unit test suite to make sure that the routines were wrapped correctly. 
+
+This meant conducting complex matrix calculations performed in python to check that the function was performing as expected. For example, one of such routines was `?TTRF`, which performed the LU factorization of a tridiagonal matrix, where `L @ U = A`. The fortran routines are much faster than calculations even with NumPy array optimizations. In this grant I was able to refine my not only my linear algebra skills, but have extensive use of unit testing frameworks, continuous integration, as well as collaborating remotely over github.
