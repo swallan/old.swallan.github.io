@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Oct 2020 09:26:15 GMT</lastBuildDate><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview  As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview &lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Oct 2020 09:28:05 GMT</lastBuildDate><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview  As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 300px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/home/static/41fa046dd9a80b57c97114a76909ad46/5a46d/scipy-logo-300.png&quot;
+    href=&quot;/swallan.github.io/static/41fa046dd9a80b57c97114a76909ad46/5a46d/scipy-logo-300.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -17,9 +17,9 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;scipy-logo&quot;
         title=&quot;scipy-logo&quot;
-        src=&quot;/home/static/41fa046dd9a80b57c97114a76909ad46/5a46d/scipy-logo-300.png&quot;
-        srcset=&quot;/home/static/41fa046dd9a80b57c97114a76909ad46/c26ae/scipy-logo-300.png 158w,
-/home/static/41fa046dd9a80b57c97114a76909ad46/5a46d/scipy-logo-300.png 300w&quot;
+        src=&quot;/swallan.github.io/static/41fa046dd9a80b57c97114a76909ad46/5a46d/scipy-logo-300.png&quot;
+        srcset=&quot;/swallan.github.io/static/41fa046dd9a80b57c97114a76909ad46/c26ae/scipy-logo-300.png 158w,
+/swallan.github.io/static/41fa046dd9a80b57c97114a76909ad46/5a46d/scipy-logo-300.png 300w&quot;
         sizes=&quot;(max-width: 300px) 100vw, 300px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -45,7 +45,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/home/static/26027e33530c8562de79087400df5802/f291a/benchmark.png&quot;
+    href=&quot;/swallan.github.io/static/26027e33530c8562de79087400df5802/f291a/benchmark.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -58,13 +58,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;benchmark&quot;
         title=&quot;benchmark&quot;
-        src=&quot;/home/static/26027e33530c8562de79087400df5802/f058b/benchmark.png&quot;
-        srcset=&quot;/home/static/26027e33530c8562de79087400df5802/c26ae/benchmark.png 158w,
-/home/static/26027e33530c8562de79087400df5802/6bdcf/benchmark.png 315w,
-/home/static/26027e33530c8562de79087400df5802/f058b/benchmark.png 630w,
-/home/static/26027e33530c8562de79087400df5802/40601/benchmark.png 945w,
-/home/static/26027e33530c8562de79087400df5802/78612/benchmark.png 1260w,
-/home/static/26027e33530c8562de79087400df5802/f291a/benchmark.png 2258w&quot;
+        src=&quot;/swallan.github.io/static/26027e33530c8562de79087400df5802/f058b/benchmark.png&quot;
+        srcset=&quot;/swallan.github.io/static/26027e33530c8562de79087400df5802/c26ae/benchmark.png 158w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/6bdcf/benchmark.png 315w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/f058b/benchmark.png 630w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/40601/benchmark.png 945w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/78612/benchmark.png 1260w,
+/swallan.github.io/static/26027e33530c8562de79087400df5802/f291a/benchmark.png 2258w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -78,16 +78,16 @@
 &lt;p&gt;We have used the least possible list comprehensions and tried to utilize numpy array operations whenever possible. This experience helped me fine tune my benchmarking and testing skills, as there is limited support for this test across the wider internet, even amongst academic sources. &lt;/p&gt;
 &lt;h3&gt;Linear Algbra (&lt;a href=&quot;https://docs.scipy.org/doc/scipy/reference/linalg.html&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt;&lt;/a&gt;)&lt;/h3&gt;
 &lt;p&gt;I was able to work under a NumFOCUS grant to add support for several new Linear Algebra Package fortran routines with the use of a fortran to python (“f2py”) wrapper. My main responsibility was to create a unit test suite to make sure that the routines were wrapped correctly. &lt;/p&gt;
-&lt;p&gt;This meant conducting complex matrix calculations performed in python to check that the function was performing as expected. For example, one of such routines was &lt;code class=&quot;language-text&quot;&gt;?TTRF&lt;/code&gt;, which performed the LU factorization of a tridiagonal matrix, where &lt;code class=&quot;language-text&quot;&gt;L @ U = A&lt;/code&gt;. The fortran routines are much faster than calculations even with NumPy array optimizations. In this grant I was able to refine my not only my linear algebra skills, but have extensive use of unit testing frameworks, continuous integration, as well as collaborating remotely over github.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On the Cal Poly Racing Team]]></title><description><![CDATA[Overview Created C++ serial data communication program for embedded vehicle computers Developed general use python data plotting scripts for…]]></description><link>https://swallan.github.io/cal-poly-racing/</link><guid isPermaLink="false">https://swallan.github.io/cal-poly-racing/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Created C++ serial data communication program for embedded vehicle computers&lt;/li&gt;
-&lt;li&gt;Developed general use python data plotting scripts for use by non-software engineers on the team&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Student Web Developer; Technology Specialist: Cal Poly Corporation]]></title><description><![CDATA[Overview Enhanced calpolydining.com and calpolycorporation.org Improved static site speed, implemented ADA compliance, updated content and…]]></description><link>https://swallan.github.io/campus-dining/</link><guid isPermaLink="false">https://swallan.github.io/campus-dining/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This meant conducting complex matrix calculations performed in python to check that the function was performing as expected. For example, one of such routines was &lt;code class=&quot;language-text&quot;&gt;?TTRF&lt;/code&gt;, which performed the LU factorization of a tridiagonal matrix, where &lt;code class=&quot;language-text&quot;&gt;L @ U = A&lt;/code&gt;. The fortran routines are much faster than calculations even with NumPy array optimizations. In this grant I was able to refine my not only my linear algebra skills, but have extensive use of unit testing frameworks, continuous integration, as well as collaborating remotely over github.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Student Web Developer; Technology Specialist: Cal Poly Corporation]]></title><description><![CDATA[Overview Enhanced calpolydining.com and calpolycorporation.org Improved static site speed, implemented ADA compliance, updated content and…]]></description><link>https://swallan.github.io/campus-dining/</link><guid isPermaLink="false">https://swallan.github.io/campus-dining/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Enhanced calpolydining.com and calpolycorporation.org&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Improved static site speed, implemented ADA compliance, updated content and cards
 Oversaw Marketing and Communications Department technology&lt;/li&gt;
 &lt;li&gt;Repaired Cisco Meraki live content deployments, maintained printer network access and student workstations&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[On the Cal Poly Racing Team]]></title><description><![CDATA[Overview Created C++ serial data communication program for embedded vehicle computers Developed general use python data plotting scripts for…]]></description><link>https://swallan.github.io/cal-poly-racing/</link><guid isPermaLink="false">https://swallan.github.io/cal-poly-racing/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Created C++ serial data communication program for embedded vehicle computers&lt;/li&gt;
+&lt;li&gt;Developed general use python data plotting scripts for use by non-software engineers on the team&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Softare Engineering Intern: Ariat International]]></title><description><![CDATA[Overview Built software interface and backend to generate boilerplate webpages and databases for product promotion rather than individual…]]></description><link>https://swallan.github.io/ariat/</link><guid isPermaLink="false">https://swallan.github.io/ariat/</guid><pubDate>Thu, 15 Jun 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Built software interface and backend to generate boilerplate webpages and databases for product promotion rather than individual page creation&lt;/li&gt;
