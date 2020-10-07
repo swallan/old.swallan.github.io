@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Oct 2020 09:28:05 GMT</lastBuildDate><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview  As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview &lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 07:52:14 GMT</lastBuildDate><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 300px; &quot;
     &gt;
@@ -25,7 +25,8 @@
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/h2&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under various research grants. Under supervision of a professor on campus, I have made enhancements to &lt;code class=&quot;language-text&quot;&gt;scipy.stats&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Most recently, under the grant, “A Solid Foundation for Statistics in Python with SciPy,” we have worked to make enhancements in several areas to SciPy’s statistical functions. See the full grant proposal &lt;a href=&quot;https://warrenweckesser.github.io/czi/scipy-2019-czi-proposal-revised.pdf&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;Most notably, I worked to&lt;/p&gt;
@@ -78,18 +79,112 @@
 &lt;p&gt;We have used the least possible list comprehensions and tried to utilize numpy array operations whenever possible. This experience helped me fine tune my benchmarking and testing skills, as there is limited support for this test across the wider internet, even amongst academic sources. &lt;/p&gt;
 &lt;h3&gt;Linear Algbra (&lt;a href=&quot;https://docs.scipy.org/doc/scipy/reference/linalg.html&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt;&lt;/a&gt;)&lt;/h3&gt;
 &lt;p&gt;I was able to work under a NumFOCUS grant to add support for several new Linear Algebra Package fortran routines with the use of a fortran to python (“f2py”) wrapper. My main responsibility was to create a unit test suite to make sure that the routines were wrapped correctly. &lt;/p&gt;
-&lt;p&gt;This meant conducting complex matrix calculations performed in python to check that the function was performing as expected. For example, one of such routines was &lt;code class=&quot;language-text&quot;&gt;?TTRF&lt;/code&gt;, which performed the LU factorization of a tridiagonal matrix, where &lt;code class=&quot;language-text&quot;&gt;L @ U = A&lt;/code&gt;. The fortran routines are much faster than calculations even with NumPy array optimizations. In this grant I was able to refine my not only my linear algebra skills, but have extensive use of unit testing frameworks, continuous integration, as well as collaborating remotely over github.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Student Web Developer; Technology Specialist: Cal Poly Corporation]]></title><description><![CDATA[Overview Enhanced calpolydining.com and calpolycorporation.org Improved static site speed, implemented ADA compliance, updated content and…]]></description><link>https://swallan.github.io/campus-dining/</link><guid isPermaLink="false">https://swallan.github.io/campus-dining/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Enhanced calpolydining.com and calpolycorporation.org&lt;/p&gt;
+&lt;p&gt;This meant conducting complex matrix calculations performed in python to check that the function was performing as expected. For example, one of such routines was &lt;code class=&quot;language-text&quot;&gt;?TTRF&lt;/code&gt;, which performed the LU factorization of a tridiagonal matrix, where &lt;code class=&quot;language-text&quot;&gt;L @ U = A&lt;/code&gt;. The fortran routines are much faster than calculations even with NumPy array optimizations. In this grant I was able to refine my not only my linear algebra skills, but have extensive use of unit testing frameworks, continuous integration, as well as collaborating remotely over github.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On the Cal Poly Racing Team]]></title><description><![CDATA[Overview In October of 2019 I joined the Cal Poly Baja SAE racing team, on the Electronics Subsystem, the “electrons.” In the past, it had…]]></description><link>https://swallan.github.io/cal-poly-racing/</link><guid isPermaLink="false">https://swallan.github.io/cal-poly-racing/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In October of 2019 I joined the Cal Poly Baja SAE racing team, on the Electronics Subsystem, the “electrons.” In the past, it had been a small subsystem of only a few people, but 10 people joined along with me. We were able to take on a more ambitious project as a result. We planned to design a DAQ (Data Aquisition) so that the entire team would be able to analyse the performance of the car during testing in amost real time.&lt;/p&gt;
+&lt;p&gt;The team had members of varying experience, and as a Software Engineering major, I was most suited to write the communication algorithm so that are various on board computers could communicate to the central data collection arduino without running out of space. We tried several different methods of communication and settled on using serial data transmission.&lt;/p&gt;
+&lt;p&gt;Once we had the data, it became another task to represent it. After sending over the resulting data to other subsystems, they came back to us saying that it was impossible to graph since the files were too big and woud crash exel every time they tried. Luckily, in my experience programming for SciPy, I had relied upon the &lt;code class=&quot;language-text&quot;&gt;matplotlib&lt;/code&gt; library to graph data, and it was a fairly simple task to graph what they needed.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/df9da/plots.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 15.18987341772152%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAc0lEQVQI1z1NQRIDMQja//+2e+kqqAXTNjMGRYFr9Lp7SA4IFU+V+xJfy0fGVGkuCrn4092ve3d+lz8PERJomU9ORg4hE/cpDlxjm7DrlHvdM3Og25L539BJJiFhWShEHmyLFJDvGAQ2EI9uHbbhJ6y/hh9vrezHKhC/ogAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;plots&quot;
+        title=&quot;plots&quot;
+        src=&quot;/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/f058b/plots.png&quot;
+        srcset=&quot;/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/c26ae/plots.png 158w,
+/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/6bdcf/plots.png 315w,
+/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/f058b/plots.png 630w,
+/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/40601/plots.png 945w,
+/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/78612/plots.png 1260w,
+/swallan.github.io/static/e668a79898b7a0ca2f73a0fc653b6978/df9da/plots.png 12000w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Student Web Developer; Technology Specialist: Cal Poly Corporation]]></title><description><![CDATA[Overview I was originally hired at the Cal Poly Corporation in the Marketing and Communications department to help them with their…]]></description><link>https://swallan.github.io/campus-dining/</link><guid isPermaLink="false">https://swallan.github.io/campus-dining/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 300px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/swallan.github.io/static/fac99de8fd8619cee4fd68f2facceb02/5a46d/CD_logo_grn_sml.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 20.88607594936709%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAArUlEQVQY023PsQrCMBDG8evq4OpQHRJRQS1qUVERc1RU6OAg+gaC4NM4+SpuDj6Z/6TByYNfc024L0TEmbeofeEjzp5h6TMsRE3G+ZFecUBNfDkrv1KThH+1ScDngTueOCHFNIZ00MWMoRWSKiQM1+VvqXW4osQEA/RgQlC1N4x7TcwJTuOFfiaP/ZrX5D6wTVOCINOIw30UuGDMvl/90zdxbWHJzI6zEf0eW9y+64YrSZ4ZkSkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;logo-cp-dining&quot;
+        title=&quot;logo-cp-dining&quot;
+        src=&quot;/swallan.github.io/static/fac99de8fd8619cee4fd68f2facceb02/5a46d/CD_logo_grn_sml.png&quot;
+        srcset=&quot;/swallan.github.io/static/fac99de8fd8619cee4fd68f2facceb02/c26ae/CD_logo_grn_sml.png 158w,
+/swallan.github.io/static/fac99de8fd8619cee4fd68f2facceb02/5a46d/CD_logo_grn_sml.png 300w&quot;
+        sizes=&quot;(max-width: 300px) 100vw, 300px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I was originally hired at the Cal Poly Corporation in the Marketing and Communications department to help them with their technology aparatus, but after they learned that I was a Software Engineering major, I was also able to take on the role of Student Web Developer. As a result of coronavirus impacts to their business, I was furloughed in March 2020, but as of Fall 2020, have resumed employment.&lt;/p&gt;
+&lt;p&gt;This meant working on their two websites; calpolydining.com and calpolycorporation.org. At first, I started with easier tasks like updating content and adding images, and then moved on to more advanced improvements. A few of the projects that I have worked on that were meaningful were &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Improved static site speed, implemented ADA compliance, updated content and cards
-Oversaw Marketing and Communications Department technology&lt;/li&gt;
-&lt;li&gt;Repaired Cisco Meraki live content deployments, maintained printer network access and student workstations&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[On the Cal Poly Racing Team]]></title><description><![CDATA[Overview Created C++ serial data communication program for embedded vehicle computers Developed general use python data plotting scripts for…]]></description><link>https://swallan.github.io/cal-poly-racing/</link><guid isPermaLink="false">https://swallan.github.io/cal-poly-racing/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;li&gt;adding dynamic generation for image galleries&lt;/li&gt;
+&lt;li&gt;sitewide speed improvements (image compression, removing uneeded extra processes.)&lt;/li&gt;
+&lt;li&gt;Airtable configuration for propogation of holiday and non standard hours to the dining website and for easier export to google business.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/191e2/gallery.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 94.9367088607595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAABYlAAAWJQFJUiTwAAAD5ElEQVQ4y63UX0xTVxwH8D7MbMmSPexle1vMfNiyZMke1oWQTGUaNgwDDEMmEDoj4IIiKv9CFxQotGXInwuzMEH+FRgyKEOgi0ogK1JEIk2miLrJIC3lzy2399Ley21vz3e3BDE+uL7sl/zOSc4993PP75ecq1DI8aZC8YE8hR1OVCnNtiXl4OScst8yp7T+zSqj4lOU8rNQGSbnh4qdeK1Or52ordOjxzTgpxmO2O1rZMnuIOyml9y4MUyKii6R8nIdKdfqSKmmjJSUaIhWpyelpfKs1fsvX65GcXGpVbb2BMHXaYa5CzlEUQz4/QEIvA+CVwDPC/jHacfqBg2vwIPg5QiQ7ZVAcPB4PDOy9cY2uOR0WIOrot8v8eIW8YgCYUU+uJs46DWyuOIg6xvr8ok5EpACRJJT9ImE473E7fX4/fJG2uWa3gU3OW5q+5OESFuSHzS7imf0AlxeN1wcizUXA4blQTMsVtbW4WYYsG4GW4IQfEsKDhzL3dsFWZad2qlCciw7YH9qg+CmsbzhhJ1bgZOhsbrmhpv1YJ2mseFal5OWW8K/ALlXgAzrBu1m4QsQyKW91LNgD7wywgsihC0RfrkaIlf1nyBPO7E8N4PFJ8+wsOjE778ZUfXTNfT2D8J83YhHf87i4b3bGL9lwvzco9AndM+NIiMlBXknT8BUUYDs9HRkpCbDeOkT9F35FrrKBqjzzyI/Mw23hsyhwb9G25Eb/T6q0w6iJeMAmtXn0VmYjD9aYzDZqUNZRSMyCuugSsyE2TQcGpwyNUIb+y6asvbjYmoMbB1xsF07gummC5i/2YXGpn6cvlCBopxCPJ6xhgZXntgwUpMPS1c9RodNGO2rRq/hNCxGNfQNBpxSJSE1+gCSDn+Gga620OCD+afoaGtDe0c79NoSdLU0o6/ZgMH2euRoNDiZFI/jcV8hJvIgmg1UaPDXX3qQnF6AqK+P4diRKBiMBuTpclCsLUOuWi33Lk4Gv0TsoTD0GFtDg2PmIZIad5ScS/6G/PD9CdI2YCJnK0vImbJckqnJJ7mZaSQpPppEfvE56Ta2kVeBkzugb9Y6JnXXqqX56RHpoWVE6uwdlJpauqTW1k7piuFn6bG5Xuq+qJI+2rdXut3fEcR8O+DdF3d5c9P2/Db0XW1CVspRuT8/YrSzATXNJpQbalBQmY+qWg1wPxuWik8xVLUfPm5h9xbJxoPn4J6xsbGsiYkJw33bbE1xTh71zltvU/ve20t9lxhLJSSoqKS045TqVCR1JiuGGq9PoK5mfkwNVR+iJm5epyx3pmqsk3cM4+Pj2dv/w4iICMX/FeHh4Yp/Af727iQv1jqbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;gallery&quot;
+        title=&quot;gallery&quot;
+        src=&quot;/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/f058b/gallery.png&quot;
+        srcset=&quot;/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/c26ae/gallery.png 158w,
+/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/6bdcf/gallery.png 315w,
+/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/f058b/gallery.png 630w,
+/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/40601/gallery.png 945w,
+/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/78612/gallery.png 1260w,
+/swallan.github.io/static/7730a352fd7e05a92e34f81cdc694044/191e2/gallery.png 1836w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Softare Engineering Intern: Ariat International]]></title><description><![CDATA[Overview Assessed needs of IT team for online product promotional site Designedinterface for internal use to generate boilerplate webpages…]]></description><link>https://swallan.github.io/ariat/</link><guid isPermaLink="false">https://swallan.github.io/ariat/</guid><pubDate>Thu, 15 Jun 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Created C++ serial data communication program for embedded vehicle computers&lt;/li&gt;
-&lt;li&gt;Developed general use python data plotting scripts for use by non-software engineers on the team&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Softare Engineering Intern: Ariat International]]></title><description><![CDATA[Overview Built software interface and backend to generate boilerplate webpages and databases for product promotion rather than individual…]]></description><link>https://swallan.github.io/ariat/</link><guid isPermaLink="false">https://swallan.github.io/ariat/</guid><pubDate>Thu, 15 Jun 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Built software interface and backend to generate boilerplate webpages and databases for product promotion rather than individual page creation&lt;/li&gt;
-&lt;li&gt;Collaborated with other interns to revitalize consumer point rewards program&lt;/li&gt;
+&lt;li&gt;Assessed needs of IT team for online product promotional site&lt;/li&gt;
+&lt;li&gt;Designedinterface for internal use to generate boilerplate webpages for product promotion&lt;/li&gt;
+&lt;li&gt;Collaboratedwith other interns to revitalize consumer point rewards program&lt;/li&gt;
+&lt;li&gt;Investigated projects invarious other company departments including accounting and customer servicewhile assisting other interns with their duties&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item></channel></rss>
