@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 07:52:14 GMT</lastBuildDate><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Samuel Wallan]]></title><description><![CDATA[A short portfolio of Sam Wallan's work.]]></description><link>https://swallan.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 11 Dec 2020 23:03:39 GMT</lastBuildDate><item><title><![CDATA[UGO: A Health and Wellness Tracker]]></title><description><![CDATA[Our Website Our Story Ugo was started as a class project for CSC-308, Software Engineering I at Cal Poly. We saw the need for a productivity…]]></description><link>https://swallan.github.io/ugo/</link><guid isPermaLink="false">https://swallan.github.io/ugo/</guid><pubDate>Wed, 15 Sep 0202 07:52:58 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/828bd/ugo-snapshot.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 91.13924050632912%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD2klEQVQ4y5WSy28bVRTGZwMs+AdYQM0GNRGFDSskVlQIqYRSGhrYmCIBLWmlxHFBSGSBUEIDagghihDiIWibNKWClOadtokdO7HzoEmclzOxPfZ4PPHYMx7PeGxP0njm447TFgILlMVP595zz/nuOedeqvaFmkfeqX7pLedH9W+vhHh7kBXtyg7sw7e99uqqo/aaY8ftJ44eI+vX7K8fqdrDcXJe5pVXT5LYmpdfPPwo9bHj3IGhvuvw+f3YTGWQSosECTS9gcH+fvTf6MPQwCBujYzCPe7aw03is/C4J/BH7/W7ba1fVVCHnj9s+7bxvcL7nT14o+n70tkPTpVOnz5VOlNbW6qvry/V1dWVrcPhKDmdzj00NDgsdsgaJC5bXV1dSb3raLR1D3uLP7mWcXF01uganjK7Rnxmz+0588qtWbOHcOU+N2ce0G3ZXZ/x69gdXBqaUj/5srOCavruqm10Na3/NrGEXl/Q/N1Ho9dPwx0twJsowcPtYDLxX6YI3l1r+JKAJ1ZUO66OVFINzR22cTqjB5M5zMckc5WTMB2RsMBmEUppCAnEz+WwSFjmFWIVYnOYi+cQ3FStvRESixinJfXCpb5K6uxn7TZPRNF1fQuz8YyZyKiIinkI2TxWNzOIpLPgJA1cJo9kVkVMUpBS8mDSGmhBxigtGFpRhzcsq+d/6d8V9BJBJV/EdChhxkWZiOSRyGhgBRG8mClfwIoamGQa64kUNjM5Un0eMUHCn8ymkStuwROS1S8uWoKfttm8jKrLCmlrYd7kORYRqYgwL2IlsIjgyhLCgooNXsbS4gIW5u8gzAmw2kywUSwvzhuKVoCHVNhiCZ4pC+Z0gVQWXKfNeCyKDTI3NpWFlE5BltKIEEEmpUIW0xBTAnjStjW/SDiEwCptJOU8SJdqy883Kiln8zc2V0jRlzgZgahgBrgs/DGNzFPDIp8vM81qmGH/3s+RMx9L1mwG68EVgw6H4VpPq63d5JWdn3cSwaw+u8ZgOrBmetf58pdxMxpckV3cTL7Mg71lY1uYXIsjNtBqxMZ+hHuVUy9c81RS55rbba6wok/GtzERK5qeaB6eqPY/kBjGsuRidtvwJgyMbWTVry/3/UOQLVpBphU4cT+BuZf8b/bE5IypuE4EZbWtizyKs6ndmmHBGytggtFKBGOflLykmDFaVtou91dQH57veJI4d2YEA77ENvz83X3h47YxK5hwhdVCe/cg+YeNLU8MBXhuZEXIjiwnRYK0H4atHJI7sMAxLT9ce4p67PEDD1W9efLgkRP2Q4Sn79n9YOU8QzhY8exzD/8FumRSdwetMzEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ugo-snapshot&quot;
+        title=&quot;ugo-snapshot&quot;
+        src=&quot;/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/f058b/ugo-snapshot.png&quot;
+        srcset=&quot;/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/c26ae/ugo-snapshot.png 158w,
+/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/6bdcf/ugo-snapshot.png 315w,
+/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/f058b/ugo-snapshot.png 630w,
+/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/40601/ugo-snapshot.png 945w,
+/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/78612/ugo-snapshot.png 1260w,
+/swallan.github.io/static/09fd39e0c9f591747c431a13f50ab3e9/828bd/ugo-snapshot.png 2310w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://team-ugo.web.app/&quot;&gt;Our Website&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Our Story&lt;/h3&gt;
+&lt;p&gt;Ugo was started as a class project for CSC-308, Software Engineering I at Cal Poly. We saw the need for a productivity tool and wellness application to help people and students overcome the challenges of remote work and learning due to the pandemic. Ugo helps you stay focused and healthy with fun and relaxing features such as motivational quotes, horoscopes, and reminders to take breaks. &lt;/p&gt;
+&lt;h3&gt;Our Vision&lt;/h3&gt;
+&lt;p&gt;We want to make an impact on how people work from home by helping users achieve better mental health and well-being while improving their productivity. This means our engineering team is hard at work planning new features and a mobile app in upcoming releases.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Undergraduate Research Assistant: SciPy]]></title><description><![CDATA[Overview As an undergraduate research assistant, I have been contributing to the Scientific Python (“SciPy”) since November of 2019 under…]]></description><link>https://swallan.github.io/scipy/</link><guid isPermaLink="false">https://swallan.github.io/scipy/</guid><pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 300px; &quot;
     &gt;
@@ -32,8 +68,7 @@
 &lt;p&gt;Most notably, I worked to&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;increase the speed and accuracy of continuous distributions fit methods&lt;/li&gt;
-&lt;li&gt;Add of the Alexander-Govern statistical test&lt;/li&gt;
-&lt;li&gt;create the Tukey-Kramer test&lt;/li&gt;
+&lt;li&gt;Research and implement the Alexander-Govern and Tukey-Kramer statistical methods&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Under a NumFOCUS grant, we made enhancements to &lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt; by wrapping 8 new fortran functions. I participated in this project by creating a parametrized unit test suite for each Fortran Linear Algebra Package (LAPACK) prior to the wrapper being written. &lt;/p&gt;
 &lt;h2&gt;Statistics&lt;/h2&gt;
@@ -73,13 +108,40 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;It is significant to note that MLE formula may not always be appropriate alongside fixed, non-optimal, other parameters. These situations did not experience a speed increase. &lt;/p&gt;
-&lt;p&gt;This enhancement was conducted for 8 continuous distributions.&lt;/p&gt;
+&lt;p&gt;I implemented this enhancement for 8 continuous distributions.&lt;/p&gt;
 &lt;h5&gt;Addition of Statistical Tests&lt;/h5&gt;
-&lt;p&gt;After starting with two separate implementations, @DominicChm and I merged together the best parts of each of our implementations after determining the best practices and most efficient method. We checked on this using a benchmark which is viewable in the commit history.&lt;/p&gt;
-&lt;p&gt;We have used the least possible list comprehensions and tried to utilize numpy array operations whenever possible. This experience helped me fine tune my benchmarking and testing skills, as there is limited support for this test across the wider internet, even amongst academic sources. &lt;/p&gt;
-&lt;h3&gt;Linear Algbra (&lt;a href=&quot;https://docs.scipy.org/doc/scipy/reference/linalg.html&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt;&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;The Tukey-Kramer and Alexander-Govern statistical tests are not well known but are still very useful for their respective use cases.&lt;/p&gt;
+&lt;p&gt;The implementation of both of these required research to first determine the process of the test, and then to determine what would be the best method of implementation. The method of implementation is important to consider in order to ensure that the test executes as fast as possible.&lt;/p&gt;
+&lt;p&gt;I worked hard to ensure that the user interaction with both of these tests was clean and easy to use:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;gt;&amp;gt;&amp;gt; from scipy.stats import alexandergovern
+&amp;gt;&amp;gt;&amp;gt; atlanta = [13.75, 13.75, 13.5, 13.5, 13.0, 13.0, 13.0, 12.75, 12.5]
+&amp;gt;&amp;gt;&amp;gt; chicago = [14.25, 13.0, 12.75, 12.5, 12.5, 12.4, 12.3, 11.9, 11.9]
+&amp;gt;&amp;gt;&amp;gt; houston = [14.0, 14.0, 13.51, 13.5, 13.5, 13.25, 13.0, 12.5, 12.5]
+&amp;gt;&amp;gt;&amp;gt; memphis = [15.0, 14.0, 13.75, 13.59, 13.25, 12.97, 12.5, 12.25,
+...           11.89]
+&amp;gt;&amp;gt;&amp;gt; alexandergovern(atlanta, chicago, houston, memphis)
+AlexanderGovernResult(statistic=6.941146076872535,
+                      pvalue=0.03109920451449096)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In some cases, this meant a visual output:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;gt;&amp;gt;&amp;gt; from scipy.stats import tukeykramer
+&amp;gt;&amp;gt;&amp;gt; group1 = [24.5, 23.5, 26.4, 27.1, 29.9]
+&amp;gt;&amp;gt;&amp;gt; group2 = [28.4, 34.2, 29.5, 32.2, 30.1]
+&amp;gt;&amp;gt;&amp;gt; group3 = [26.1, 28.3, 24.3, 26.2, 27.8]
+&amp;gt;&amp;gt;&amp;gt; tukeykramer(group1, group2, group3)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        Comparison between groups with  Simultanious
+(with 95% Confidence Limits and significance at the 0.05 level)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+group     mean      min      max      sig    p-value
+1 - 2    -4.600    -8.249  -0.951     1.0     0.012
+1 - 3    -0.260    -3.909   3.389     0.0     0.980
+2 - 1     4.600     0.951   8.249     1.0     0.012
+2 - 3     4.340     0.691   7.989     1.0     0.017
+3 - 1     0.260    -3.389   3.909     0.0     0.980
+3 - 2    -4.340    -7.989  -0.691     1.0     0.017&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Linear Algebra (&lt;a href=&quot;https://docs.scipy.org/doc/scipy/reference/linalg.html&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;scipy.linalg&lt;/code&gt;&lt;/a&gt;)&lt;/h3&gt;
 &lt;p&gt;I was able to work under a NumFOCUS grant to add support for several new Linear Algebra Package fortran routines with the use of a fortran to python (“f2py”) wrapper. My main responsibility was to create a unit test suite to make sure that the routines were wrapped correctly. &lt;/p&gt;
-&lt;p&gt;This meant conducting complex matrix calculations performed in python to check that the function was performing as expected. For example, one of such routines was &lt;code class=&quot;language-text&quot;&gt;?TTRF&lt;/code&gt;, which performed the LU factorization of a tridiagonal matrix, where &lt;code class=&quot;language-text&quot;&gt;L @ U = A&lt;/code&gt;. The fortran routines are much faster than calculations even with NumPy array optimizations. In this grant I was able to refine my not only my linear algebra skills, but have extensive use of unit testing frameworks, continuous integration, as well as collaborating remotely over github.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On the Cal Poly Racing Team]]></title><description><![CDATA[Overview In October of 2019 I joined the Cal Poly Baja SAE racing team, on the Electronics Subsystem, the “electrons.” In the past, it had…]]></description><link>https://swallan.github.io/cal-poly-racing/</link><guid isPermaLink="false">https://swallan.github.io/cal-poly-racing/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This meant conducting complex matrix calculations performed in Python to check that the function was performing as expected. For example, one of such routines was &lt;code class=&quot;language-text&quot;&gt;?TTRF&lt;/code&gt;, which performed the LU factorization of a tridiagonal matrix, where &lt;code class=&quot;language-text&quot;&gt;L @ U = A&lt;/code&gt;. The fortran routines are much faster than calculations even with NumPy array optimizations. In this grant I was able to refine my not only my linear algebra skills, but have extensive use of unit testing frameworks, continuous integration, as well as collaborating remotely over github.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On the Cal Poly Racing Team]]></title><description><![CDATA[Overview In October of 2019 I joined the Cal Poly Baja SAE racing team, on the Electronics Subsystem, the “electrons.” In the past, it had…]]></description><link>https://swallan.github.io/cal-poly-racing/</link><guid isPermaLink="false">https://swallan.github.io/cal-poly-racing/</guid><pubDate>Wed, 30 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;In October of 2019 I joined the Cal Poly Baja SAE racing team, on the Electronics Subsystem, the “electrons.” In the past, it had been a small subsystem of only a few people, but 10 people joined along with me. We were able to take on a more ambitious project as a result. We planned to design a DAQ (Data Aquisition) so that the entire team would be able to analyse the performance of the car during testing in amost real time.&lt;/p&gt;
 &lt;p&gt;The team had members of varying experience, and as a Software Engineering major, I was most suited to write the communication algorithm so that are various on board computers could communicate to the central data collection arduino without running out of space. We tried several different methods of communication and settled on using serial data transmission.&lt;/p&gt;
 &lt;p&gt;Once we had the data, it became another task to represent it. After sending over the resulting data to other subsystems, they came back to us saying that it was impossible to graph since the files were too big and woud crash exel every time they tried. Luckily, in my experience programming for SciPy, I had relied upon the &lt;code class=&quot;language-text&quot;&gt;matplotlib&lt;/code&gt; library to graph data, and it was a fairly simple task to graph what they needed.&lt;/p&gt;
